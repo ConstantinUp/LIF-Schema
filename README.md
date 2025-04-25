@@ -10,3 +10,8 @@ The JSON-Schemas are based on *Version 1.0.0 – March 2024* of the LIF – Layo
 The copyright of the LIF – Layout Interchange Format document lies with the Verband Deutscher Maschinen- und Anlagenbau e. V. (VDMA). The original document is hereby acknowledged as the source.
 
 For the original document on LIF, please refer to the official VDMA publication, available for free download here: [LIF Publication](https://vdma.org/viewer/-/v2article/render/89847487).
+
+## Acknowledgement
+This repository has been created for the work in the research project [SDM4FZI](https://www.sdm4fzi.de/) to enable the data exchange of VDA 5050 compliant layouts.
+
+We extend our sincere thanks to the German Federal Ministry for Economic Affairs and Climate Action (BMWK) for supporting this research project 13IK001ZF “Software-Defined Manufacturing for the automotive and supplying industry”.
